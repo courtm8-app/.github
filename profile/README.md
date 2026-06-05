@@ -7,4 +7,4 @@ More coming soon!
 
 ---
 
-[Website](https://courtm8.app)
+[Website](https://courtm8-platform.vercel.app/)
